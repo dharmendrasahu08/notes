@@ -1,0 +1,4 @@
+org.hibernate.NonUniqueObjectException: A different object with the same identifier value was already associated with the session 
+UnsatisfiedDependencyException 
+
+https://leanpub.com/high-performance-java-persistence/read#jdbc-batch-updates
