@@ -2,3 +2,4 @@ org.hibernate.NonUniqueObjectException: A different object with the same identif
 UnsatisfiedDependencyException 
 
 https://leanpub.com/high-performance-java-persistence/read#jdbc-batch-updates
+RuntimeException and Exception
